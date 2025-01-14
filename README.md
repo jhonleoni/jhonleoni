@@ -1,4 +1,4 @@
-### Olá! Eu sou o Jhony Leoni 👋
+### Oi! Jhony Leoni aqui 👋
 
 
 ![Jhon GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonleoni&show_icons=true&theme=dracula&count_private=true)
